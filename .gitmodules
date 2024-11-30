@@ -1,0 +1,3 @@
+[submodule "newsletter/themes/hugo-theme-stack"]
+	path = newsletter/themes/hugo-theme-stack
+	url = https://github.com/ralf928/project2024
